@@ -1,0 +1,1 @@
+tellraw @a ["",{"text":"To make the map automatically update, join with an account once the game starts and run /trigger view_map with it.","color":"dark_green"}]

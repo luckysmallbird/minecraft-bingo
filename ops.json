@@ -1,0 +1,44 @@
+[
+  {
+    "uuid": "f5daedb3-7a24-309c-9108-48da8a0e4653",
+    "name": "Exfruit",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "02706235-337e-34a7-ac5d-9c94795b7fba",
+    "name": "luckysmallbird",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "f39cc67a-dce7-3270-95c8-11703c477f39",
+    "name": "WinnieThePooh",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "f408f98a-c248-4e14-8609-dad8e6541a08",
+    "name": "Kalico",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "d3d7be29-e77f-3038-8afa-4963cfcf52f2",
+    "name": "smallbird",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "2bc3b061-75ab-3ae4-9fc0-902db79367b6",
+    "name": "Kalico0713",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "f1360000-228f-343a-b764-94d2671673ce",
+    "name": "criduchat",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]

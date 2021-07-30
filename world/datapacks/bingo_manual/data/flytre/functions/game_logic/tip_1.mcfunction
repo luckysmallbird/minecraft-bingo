@@ -1,0 +1,1 @@
+tellraw @a ["",{"text":"1. Use /trigger clarify set [1-25] if you are unsure what an item or block on the board is.","color":"dark_green"}]

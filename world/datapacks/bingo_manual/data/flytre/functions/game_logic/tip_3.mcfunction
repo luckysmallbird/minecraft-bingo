@@ -1,0 +1,1 @@
+tellraw @a ["",{"text":"3. Use /trigger vote_end to start a draw vote","color":"dark_green"}]

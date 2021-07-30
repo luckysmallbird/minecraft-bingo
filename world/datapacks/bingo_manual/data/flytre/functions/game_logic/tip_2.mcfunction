@@ -1,0 +1,1 @@
+tellraw @a ["",{"text":"2. Use /trigger team_tp to teleport to a random teammate","color":"dark_green"}]
